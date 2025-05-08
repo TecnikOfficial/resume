@@ -31,7 +31,7 @@
 
 ## 💼 Work Experience
 
-<details open>
+<details>
 <summary><strong>ACCELEDGE | Pune, Maharashtra</strong> - DATA SCIENTIST (Apr 2023 - Present)</summary>
 
 #### VOICE BOT PLATFORM
