@@ -1,5 +1,6 @@
 <h1 style="display: inline;">Aquib Farhaan Hussain</h1>
-<span style="float: right;">![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)</span>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" style="float: right;" />
+
 
 ## 📊 Data Scientist
 
