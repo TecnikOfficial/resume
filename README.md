@@ -4,7 +4,7 @@
 
 > Results-driven Data Science professional with 6+ years of expertise in developing AI products and scalable solutions. Proven track record in delivering predictive models that increased operational efficiency by 30% and reduced costs by $10M+.
 
-📍 Bengalore, India | 📧 [aquib.farhaan2@gmail.com](mailto:aquib.farhaan2@gmail.com) | 📱 [+91 8638510516](tel:+918638510516)
+📍 Bengalore, India | 📱 [+91 8638510516](tel:+918638510516)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aquibfarhaan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aquib97)
@@ -113,7 +113,7 @@
 
 ### Bachelor of Science (Honors in Physics)
 **Gauhati University** | Guwahati, India | Jun 2015 - May 2018
-- C.G.P.A: 7.5/10
+- C.G.P.A: 7.5/10 🏆
 
 ---
 
