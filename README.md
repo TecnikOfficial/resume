@@ -4,7 +4,7 @@
 
 > Experienced Data Science professional with 6+ years of expertise in developing AI products, solution-driven architectures, and automated pipelines. Skilled in Predictive Modeling, Data Analytics, Statistical Analysis, and delivering scalable, impact-driven solutions.
 
-📍 Bengalore, India | 📧 [aquib.farhaan2@gmail.com](mailto:aquib.farhaan2@gmail.com) | 📱 <a href="tel:+918638510516">+91 8638510516</a> | [LinkedIn](https://linkedin.com/in/aquibfarhaan/) | [GitHub](https://github.com/aquib97)
+📍 Bengalore, India | 📧 [aquib.farhaan2@gmail.com](mailto:aquib.farhaan2@gmail.com) | 📱 <a href="tel:+918638510516">+918638510516</a> | [LinkedIn](https://linkedin.com/in/aquibfarhaan/) | [GitHub](https://github.com/aquib97)
 
 ---
 
