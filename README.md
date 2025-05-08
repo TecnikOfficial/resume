@@ -1,6 +1,6 @@
-<h1 style="display: inline;">Aquib Farhaan Hussain</h1><div align="right">![Profile Views](https://komarev.com/ghpvc/?username=TecnikOfficial)</div>
+<h1 style="display: inline;">Aquib Farhaan Hussain</h1> <div align="right">![Profile Views](https://komarev.com/ghpvc/?username=TecnikOfficial)</div>
 
-# Aquib Farhaan Hussain 
+
 ## 📊 Data Scientist
 
 > Results-driven Data Science professional with 6+ years of expertise in developing AI products and scalable solutions. Proven track record in delivering predictive models that increased operational efficiency by 30% and reduced costs by $10M+.
