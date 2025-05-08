@@ -1,4 +1,4 @@
-# Aquib Farhaan Hussain
+# Aquib Farhaan Hussain ![Profile Views](https://komarev.com/ghpvc/?username=aquib97&color=blue)
 
 ## 📊 Data Scientist
 
