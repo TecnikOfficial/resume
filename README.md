@@ -1,4 +1,4 @@
-# Aquib Farhaan Hussain ![Profile Views](https://komarev.com/ghpvc/?username=aquib97&color=blue)
+# Aquib Farhaan Hussain <a href="#"><img src="https://komarev.com/ghpvc/?username=aquib97&color=blue" alt="Profile Views"></a>
 
 ## 📊 Data Scientist
 
@@ -139,16 +139,16 @@
 
 ## 📜 Certifications
 
-- <span><img src="https://img.shields.io/badge/Certificate-Machine_Learning_Masters%20iNeuron%20Intelligence-blue" alt="Certificate"></span> 2020-2021
-- <span><img src="https://img.shields.io/badge/Certificate-Business_Analytics_Masters%20iNeuron%20Intelligence-orange" alt="Certificate"></span> 2020-2021
+- <span><a href="#"><img src="https://img.shields.io/badge/Certificate-Machine_Learning_Masters%20iNeuron%20Intelligence-blue" alt="Certificate"></a></span> 2020-2021
+- <span><a href="#"><img src="https://img.shields.io/badge/Certificate-Business_Analytics_Masters%20iNeuron%20Intelligence-orange" alt="Certificate"></a></span> 2020-2021
 
 ---
 
 ## 🌐 Languages
 
-<span><img src="https://img.shields.io/badge/English-Fluent-blue" alt="English"></span>
-<span><img src="https://img.shields.io/badge/Hindi-Native-green" alt="Hindi"></span>
-<span><img src="https://img.shields.io/badge/Assamese-Native-green" alt="Assamese"></span>
+<span><a href="#"><img src="https://img.shields.io/badge/English-Fluent-blue" alt="English"></a></span>
+<span><a href="#"><img src="https://img.shields.io/badge/Hindi-Native-green" alt="Hindi"></a></span>
+<span><a href="#"><img src="https://img.shields.io/badge/Assamese-Native-green" alt="Assamese"></a></span>
 
 ---
 
