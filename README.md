@@ -1,6 +1,6 @@
 <h1 style="display: flex; justify-content: space-between; align-items: center;">
   <span>Aquib Farhaan Hussain</span>
-  <span style="margin-left: auto;">
+  <span style="margin-right: auto;">
     <img src="https://komarev.com/ghpvc/?username=aquib97&color=blue" alt="Profile Views">
   </span>
 </h1>
