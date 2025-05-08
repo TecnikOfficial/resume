@@ -11,45 +11,107 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Databases
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40">](https://www.python.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/r.svg" alt="R" width="40" height="40">](https://www.r-project.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="40" height="40">](https://www.mysql.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="40" height="40">](https://www.mongodb.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40">](https://www.postgresql.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg" alt="Redis" width="40" height="40">](https://redis.io/)
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" height="40" width="40"/>
+</a>
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/r.svg" alt="R" height="40" width="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="SQL" height="40" width="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" height="40" width="40"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" height="40" width="40"/>
+</a>
+<a href="https://redis.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg" alt="Redis" height="40" width="40"/>
+</a>
 
 ### Machine Learning & AI
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikit-learn.svg" alt="Scikit-Learn" width="40" height="40">](https://scikit-learn.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40">](https://www.tensorflow.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" alt="PyTorch" width="40" height="40">](https://pytorch.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" alt="Keras" width="40" height="40">](https://keras.io/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xgboost.svg" alt="XGBoost" width="40" height="40">](https://xgboost.readthedocs.io/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="NLTK" width="40" height="40">](https://www.nltk.org/)
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikit-learn.svg" alt="Scikit-Learn" height="40" width="40"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" height="40" width="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" alt="PyTorch" height="40" width="40"/>
+</a>
+<a href="https://keras.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" alt="Keras" height="40" width="40"/>
+</a>
+<a href="https://xgboost.readthedocs.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xgboost.svg" alt="XGBoost" height="40" width="40"/>
+</a>
+<a href="https://www.nltk.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="NLTK" height="40" width="40"/>
+</a>
 
 ### Frameworks & Libraries
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg" alt="FastAPI" width="40" height="40">](https://fastapi.tiangolo.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" alt="Flask" width="40" height="40">](https://flask.palletsprojects.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-spark.svg" alt="PySpark" width="40" height="40">](https://spark.apache.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" alt="Pandas" width="40" height="40">](https://pandas.pydata.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" alt="NumPy" width="40" height="40">](https://numpy.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-airflow.svg" alt="Airflow" width="40" height="40">](https://airflow.apache.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-kafka.svg" alt="Kafka" width="40" height="40">](https://kafka.apache.org/)
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg" alt="FastAPI" height="40" width="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" alt="Flask" height="40" width="40"/>
+</a>
+<a href="https://spark.apache.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-spark.svg" alt="PySpark" height="40" width="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" alt="Pandas" height="40" width="40"/>
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" alt="NumPy" height="40" width="40"/>
+</a>
+<a href="https://airflow.apache.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-airflow.svg" alt="Airflow" height="40" width="40"/>
+</a>
+<a href="https://kafka.apache.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-kafka.svg" alt="Kafka" height="40" width="40"/>
+</a>
 
 ### Data Visualization
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Matplotlib" width="40" height="40">](https://matplotlib.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Seaborn" width="40" height="40">](https://seaborn.pydata.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/plotly.svg" alt="Plotly" width="40" height="40">](https://plotly.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/power-bi.svg" alt="PowerBI" width="40" height="40">](https://powerbi.microsoft.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" alt="Tableau" width="40" height="40">](https://www.tableau.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/d3-dot-js.svg" alt="D3.js" width="40" height="40">](https://d3js.org/)
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Matplotlib" height="40" width="40"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Seaborn" height="40" width="40"/>
+</a>
+<a href="https://plotly.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/plotly.svg" alt="Plotly" height="40" width="40"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/power-bi.svg" alt="PowerBI" height="40" width="40"/>
+</a>
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" alt="Tableau" height="40" width="40"/>
+</a>
+<a href="https://d3js.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/d3-dot-js.svg" alt="D3.js" height="40" width="40"/>
+</a>
 
 ### Cloud & DevOps
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" alt="Azure" width="40" height="40">](https://azure.microsoft.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" alt="GCP" width="40" height="40">](https://cloud.google.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40">](https://aws.amazon.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" alt="Linux" width="40" height="40">](https://www.linux.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" alt="Databricks" width="40" height="40">](https://www.databricks.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mlflow.svg" alt="MLflow" width="40" height="40">](https://mlflow.org/)
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" alt="Azure" height="40" width="40"/>
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" alt="GCP" height="40" width="40"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" height="40" width="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" alt="Linux" height="40" width="40"/>
+</a>
+<a href="https://www.databricks.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" alt="Databricks" height="40" width="40"/>
+</a>
+<a href="https://mlflow.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mlflow.svg" alt="MLflow" height="40" width="40"/>
+</a>
 
 ---
 
