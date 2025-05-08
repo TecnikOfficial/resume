@@ -1,9 +1,4 @@
-<h1 style="display: flex; justify-content: space-between; align-items: center;">
-  <span>Aquib Farhaan Hussain</span>
-  <span style="margin-right: auto;">
-    <img src="https://komarev.com/ghpvc/?username=aquib97&color=blue" alt="Profile Views">
-  </span>
-</h1>
+# Aquib Farhaan Hussain ![Profile Views](https://komarev.com/ghpvc/?username=aquib97&color=blue)
 
 ## 📊 Data Scientist
 
