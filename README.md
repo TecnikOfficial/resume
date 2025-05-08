@@ -11,107 +11,108 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Databases
-<a href="https://www.python.org/" target="_blank">
+<a href="https://www.python.org/" target="_blank" title="Python">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
 </a>
-<a href="https://www.r-project.org/" target="_blank">
+<a href="https://www.r-project.org/" target="_blank" title="R Project">
   <img src="https://img.icons8.com/fluency/48/000000/r-project.png" alt="R" width="40" height="40"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank" title="MySQL">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
 </a>
-<a href="https://www.mongodb.com/" target="_blank">
+<a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
 </a>
-<a href="https://www.postgresql.org/" target="_blank">
+<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
 </a>
-<a href="https://redis.io/" target="_blank">
+<a href="https://redis.io/" target="_blank" title="Redis">
   <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40" height="40"/>
 </a>
 
 ### Machine Learning & AI
-<a href="https://scikit-learn.org/" target="_blank">
+<a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn">
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-learning-cloud-computing-soft-fill-soft-fill-juicy-fish.png" alt="Scikit-Learn" width="40" height="40"/>
 </a>
-<a href="https://www.tensorflow.org/" target="_blank">
+<a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow">
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
 </a>
-<a href="https://pytorch.org/" target="_blank">
+<a href="https://pytorch.org/" target="_blank" title="PyTorch">
   <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40" height="40"/>
 </a>
-<a href="https://keras.io/" target="_blank">
+<a href="https://keras.io/" target="_blank" title="Keras">
   <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40" height="40"/>
 </a>
-<a href="https://xgboost.readthedocs.io/" target="_blank">
+<a href="https://xgboost.readthedocs.io/" target="_blank" title="XGBoost">
   <img src="https://img.icons8.com/ios-filled/50/000000/line-chart.png" alt="XGBoost" width="40" height="40"/>
 </a>
-<a href="https://www.nltk.org/" target="_blank">
+<a href="https://www.nltk.org/" target="_blank" title="NLTK">
   <img src="https://img.icons8.com/color/48/000000/nlp.png" alt="NLTK" width="40" height="40"/>
 </a>
 
 ### Frameworks & Libraries
-<a href="https://fastapi.tiangolo.com/" target="_blank">
+<a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-fastapi-a-modern-web-framework-for-building-apis-with-python-logo-color-tal-revivo.png" alt="FastAPI" width="40" height="40"/>
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
+<a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
   <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" width="40" height="40"/>
 </a>
-<a href="https://spark.apache.org/" target="_blank">
+<a href="https://spark.apache.org/" target="_blank" title="Apache Spark">
   <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="PySpark" width="40" height="40"/>
 </a>
-<a href="https://pandas.pydata.org/" target="_blank">
+<a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-pandas-data-science-flat-flat-juicy-fish.png" alt="Pandas" width="40" height="40"/>
 </a>
-<a href="https://numpy.org/" target="_blank">
+<a href="https://numpy.org/" target="_blank" title="NumPy">
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/>
 </a>
-<a href="https://airflow.apache.org/" target="_blank">
+<a href="https://airflow.apache.org/" target="_blank" title="Apache Airflow">
   <img src="https://img.icons8.com/fluency/48/000000/apache-airflow.png" alt="Airflow" width="40" height="40"/>
 </a>
-<a href="https://kafka.apache.org/" target="_blank">
+<a href="https://kafka.apache.org/" target="_blank" title="Apache Kafka">
   <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" width="40" height="40"/>
 </a>
 
 ### Data Visualization
-<a href="https://matplotlib.org/" target="_blank">
+<a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-matplotlib-data-science-flat-flat-juicy-fish.png" alt="Matplotlib" width="40" height="40"/>
 </a>
-<a href="https://seaborn.pydata.org/" target="_blank">
+<a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-seaborn-data-science-flat-flat-juicy-fish.png" alt="Seaborn" width="40" height="40"/>
 </a>
-<a href="https://plotly.com/" target="_blank">
+<a href="https://plotly.com/" target="_blank" title="Plotly">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-plotly-data-visualization-tool-for-interactive-graphs-and-charts-logo-color-tal-revivo.png" alt="Plotly" width="40" height="40"/>
 </a>
-<a href="https://powerbi.microsoft.com/" target="_blank">
+<a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI" width="40" height="40"/>
 </a>
-<a href="https://www.tableau.com/" target="_blank">
+<a href="https://www.tableau.com/" target="_blank" title="Tableau">
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
 </a>
-<a href="https://d3js.org/" target="_blank">
+<a href="https://d3js.org/" target="_blank" title="D3.js">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-d3-js-a-javascript-library-for-producing-dynamic-interactive-data-visualizations-in-web-browsers-logo-color-tal-revivo.png" alt="D3.js" width="40" height="40"/>
 </a>
 
 ### Cloud & DevOps
-<a href="https://azure.microsoft.com/" target="_blank">
+<a href="https://azure.microsoft.com/" target="_blank" title="Microsoft Azure">
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
 </a>
-<a href="https://cloud.google.com/" target="_blank">
+<a href="https://cloud.google.com/" target="_blank" title="Google Cloud Platform">
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="40" height="40"/>
 </a>
-<a href="https://aws.amazon.com/" target="_blank">
+<a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
 </a>
-<a href="https://www.linux.org/" target="_blank">
+<a href="https://www.linux.org/" target="_blank" title="Linux">
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
 </a>
-<a href="https://www.databricks.com/" target="_blank">
+<a href="https://www.databricks.com/" target="_blank" title="Databricks">
   <img src="https://img.icons8.com/fluency/48/000000/databricks.png" alt="Databricks" width="40" height="40"/>
 </a>
-<a href="https://mlflow.org/" target="_blank">
+<a href="https://mlflow.org/" target="_blank" title="MLflow">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mlflow-an-open-source-platform-for-managing-machine-learning-lifecycle-logo-color-tal-revivo.png" alt="MLflow" width="40" height="40"/>
 </a>
+
 ---
 
 ## 💼 Work Experience
