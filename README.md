@@ -11,107 +11,45 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Databases
-<a href="https://www.python.org/" target="_blank" title="Python">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.r-project.org/" target="_blank" title="R Project">
-  <img src="https://img.icons8.com/fluency/48/000000/r-project.png" alt="R" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" title="MySQL">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-</a>
-<a href="https://redis.io/" target="_blank" title="Redis">
-  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40" height="40"/>
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Machine Learning & AI
-<a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn">
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-learning-cloud-computing-soft-fill-soft-fill-juicy-fish.png" alt="Scikit-Learn" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow">
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" title="PyTorch">
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40" height="40"/>
-</a>
-<a href="https://keras.io/" target="_blank" title="Keras">
-  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40" height="40"/>
-</a>
-<a href="https://xgboost.readthedocs.io/" target="_blank" title="XGBoost">
-  <img src="https://img.icons8.com/ios-filled/50/000000/line-chart.png" alt="XGBoost" width="40" height="40"/>
-</a>
-<a href="https://www.nltk.org/" target="_blank" title="NLTK">
-  <img src="https://img.icons8.com/color/48/000000/nlp.png" alt="NLTK" width="40" height="40"/>
-</a>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-008080?style=for-the-badge&logo=nltk&logoColor=white)
 
 ### Frameworks & Libraries
-<a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-fastapi-a-modern-web-framework-for-building-apis-with-python-logo-color-tal-revivo.png" alt="FastAPI" width="40" height="40"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" width="40" height="40"/>
-</a>
-<a href="https://spark.apache.org/" target="_blank" title="Apache Spark">
-  <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="PySpark" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-pandas-data-science-flat-flat-juicy-fish.png" alt="Pandas" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" title="NumPy">
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/>
-</a>
-<a href="https://airflow.apache.org/" target="_blank" title="Apache Airflow">
-  <img src="https://img.icons8.com/fluency/48/000000/apache-airflow.png" alt="Airflow" width="40" height="40"/>
-</a>
-<a href="https://kafka.apache.org/" target="_blank" title="Apache Kafka">
-  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" width="40" height="40"/>
-</a>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Data Visualization
-<a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-matplotlib-data-science-flat-flat-juicy-fish.png" alt="Matplotlib" width="40" height="40"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-seaborn-data-science-flat-flat-juicy-fish.png" alt="Seaborn" width="40" height="40"/>
-</a>
-<a href="https://plotly.com/" target="_blank" title="Plotly">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-plotly-data-visualization-tool-for-interactive-graphs-and-charts-logo-color-tal-revivo.png" alt="Plotly" width="40" height="40"/>
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI" width="40" height="40"/>
-</a>
-<a href="https://www.tableau.com/" target="_blank" title="Tableau">
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
-</a>
-<a href="https://d3js.org/" target="_blank" title="D3.js">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-d3-js-a-javascript-library-for-producing-dynamic-interactive-data-visualizations-in-web-browsers-logo-color-tal-revivo.png" alt="D3.js" width="40" height="40"/>
-</a>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 
 ### Cloud & DevOps
-<a href="https://azure.microsoft.com/" target="_blank" title="Microsoft Azure">
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
-</a>
-<a href="https://cloud.google.com/" target="_blank" title="Google Cloud Platform">
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" title="Linux">
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
-</a>
-<a href="https://www.databricks.com/" target="_blank" title="Databricks">
-  <img src="https://img.icons8.com/fluency/48/000000/databricks.png" alt="Databricks" width="40" height="40"/>
-</a>
-<a href="https://mlflow.org/" target="_blank" title="MLflow">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mlflow-an-open-source-platform-for-managing-machine-learning-lifecycle-logo-color-tal-revivo.png" alt="MLflow" width="40" height="40"/>
-</a>
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ---
 
