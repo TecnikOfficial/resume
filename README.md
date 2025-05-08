@@ -1,6 +1,4 @@
-# Aquib Farhaan Hussain  <div align="right">
-  ![Profile Views](https://komarev.com/ghpvc/?username=TecnikOfficial)
-</div>
+# Aquib Farhaan Hussain  <div align="right">![Profile Views](https://komarev.com/ghpvc/?username=TecnikOfficial)</div>
 
 
 ## 📊 Data Scientist
