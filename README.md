@@ -139,16 +139,16 @@
 
 ## 📜 Certifications
 
-- <img src="https://img.shields.io/badge/Certificate-Machine_Learning_Masters%20iNeuron%20Intelligence-blue" alt="Certificate"> 2020-2021
-- <img src="https://img.shields.io/badge/Certificate-Business_Analytics_Masters%20iNeuron%20Intelligence-orange" alt="Certificate"> 2020-2021
+- <span><img src="https://img.shields.io/badge/Certificate-Machine_Learning_Masters%20iNeuron%20Intelligence-blue" alt="Certificate"></span> 2020-2021
+- <span><img src="https://img.shields.io/badge/Certificate-Business_Analytics_Masters%20iNeuron%20Intelligence-orange" alt="Certificate"></span> 2020-2021
 
 ---
 
 ## 🌐 Languages
 
-<img src="https://img.shields.io/badge/English-Fluent-blue" alt="English">
-<img src="https://img.shields.io/badge/Hindi-Native-green" alt="Hindi">
-<img src="https://img.shields.io/badge/Assamese-Native-green" alt="Assamese">
+<span><img src="https://img.shields.io/badge/English-Fluent-blue" alt="English"></span>
+<span><img src="https://img.shields.io/badge/Hindi-Native-green" alt="Hindi"></span>
+<span><img src="https://img.shields.io/badge/Assamese-Native-green" alt="Assamese"></span>
 
 ---
 
