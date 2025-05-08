@@ -119,8 +119,8 @@
 
 ## 📜 Certifications
 
-- ![Certificate](https://img.shields.io/badge/Certificate-Machine_Learning_Masters-blue) **Machine Learning Masters** | iNeuron Intelligence | 2020-2021
-- ![Certificate](https://img.shields.io/badge/Certificate-Business_Analytics_Masters-green) **Business Analytics Masters** | iNeuron Intelligence | 2020-2021
+- ![Certificate](https://img.shields.io/badge/Certificate-Machine_Learning_Masters-blue) | iNeuron Intelligence | 2020-2021
+- ![Certificate](https://img.shields.io/badge/Certificate-Business_Analytics_Masters-green)  | iNeuron Intelligence | 2020-2021
 
 ---
 
@@ -129,6 +129,7 @@
 ![English](https://img.shields.io/badge/English-Fluent-blue)
 ![Hindi](https://img.shields.io/badge/Hindi-Native-green)
 ![Assamese](https://img.shields.io/badge/Assamese-Native-orange)
+![Bengali](https://img.shields.io/badge/Bengali-Fluent-blue)
 
 ---
 
