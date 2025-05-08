@@ -11,9 +11,6 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Databases
-## 🛠️ Tech Stack
-
-### Programming & Databases
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
 </a>
