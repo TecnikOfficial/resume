@@ -1,4 +1,4 @@
-# Aquib Farhaan Hussain <div style="float: right;">![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)</div>
+# Aquib Farhaan Hussain <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" style="float: right;" />
 
 ## 📊 Data Scientist
 
