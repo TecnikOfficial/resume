@@ -125,7 +125,6 @@
 ![English](https://img.shields.io/badge/English-Fluent-blue)
 ![Hindi](https://img.shields.io/badge/Hindi-Native-green)
 ![Assamese](https://img.shields.io/badge/Assamese-Native-orange)
-![Bengali](https://img.shields.io/badge/Bengali-Fluent-blue)
 
 ---
 
