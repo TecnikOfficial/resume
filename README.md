@@ -140,7 +140,7 @@
 ## 📜 Certifications
 
 - ![Certificate](https://img.shields.io/badge/Certificate-Machine_Learning_Masters%20iNeuron%20Intelligence-blue) 2020-2021
-- ![Certificate](https://img.shields.io/badge/Certificate-Business_Analytics_Masters%20iNeuron%20Intelligence-green) 2020-2021
+- ![Certificate](https://img.shields.io/badge/Certificate-Business_Analytics_Masters%20iNeuron%20Intelligence-orange) 2020-2021
 
 ---
 
