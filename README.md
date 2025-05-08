@@ -11,108 +11,110 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Databases
+## 🛠️ Tech Stack
+
+### Programming & Databases
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
 </a>
 <a href="https://www.r-project.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/r.svg" alt="R" height="40" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/r-project.png" alt="R" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="SQL" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
 </a>
 <a href="https://redis.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg" alt="Redis" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40" height="40"/>
 </a>
 
 ### Machine Learning & AI
 <a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikit-learn.svg" alt="Scikit-Learn" height="40" width="40"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-learning-cloud-computing-soft-fill-soft-fill-juicy-fish.png" alt="Scikit-Learn" width="40" height="40"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
 </a>
 <a href="https://pytorch.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" alt="PyTorch" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40" height="40"/>
 </a>
 <a href="https://keras.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" alt="Keras" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40" height="40"/>
 </a>
 <a href="https://xgboost.readthedocs.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xgboost.svg" alt="XGBoost" height="40" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/line-chart.png" alt="XGBoost" width="40" height="40"/>
 </a>
 <a href="https://www.nltk.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="NLTK" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nlp.png" alt="NLTK" width="40" height="40"/>
 </a>
 
 ### Frameworks & Libraries
 <a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg" alt="FastAPI" height="40" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-fastapi-a-modern-web-framework-for-building-apis-with-python-logo-color-tal-revivo.png" alt="FastAPI" width="40" height="40"/>
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" alt="Flask" height="40" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" width="40" height="40"/>
 </a>
 <a href="https://spark.apache.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-spark.svg" alt="PySpark" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="PySpark" width="40" height="40"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" alt="Pandas" height="40" width="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-pandas-data-science-flat-flat-juicy-fish.png" alt="Pandas" width="40" height="40"/>
 </a>
 <a href="https://numpy.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" alt="NumPy" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/>
 </a>
 <a href="https://airflow.apache.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-airflow.svg" alt="Airflow" height="40" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/apache-airflow.png" alt="Airflow" width="40" height="40"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-kafka.svg" alt="Kafka" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka" width="40" height="40"/>
 </a>
 
 ### Data Visualization
 <a href="https://matplotlib.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Matplotlib" height="40" width="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-matplotlib-data-science-flat-flat-juicy-fish.png" alt="Matplotlib" width="40" height="40"/>
 </a>
 <a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Seaborn" height="40" width="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-seaborn-data-science-flat-flat-juicy-fish.png" alt="Seaborn" width="40" height="40"/>
 </a>
 <a href="https://plotly.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/plotly.svg" alt="Plotly" height="40" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-plotly-data-visualization-tool-for-interactive-graphs-and-charts-logo-color-tal-revivo.png" alt="Plotly" width="40" height="40"/>
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/power-bi.svg" alt="PowerBI" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI" width="40" height="40"/>
 </a>
 <a href="https://www.tableau.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" alt="Tableau" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
 </a>
 <a href="https://d3js.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/d3-dot-js.svg" alt="D3.js" height="40" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-d3-js-a-javascript-library-for-producing-dynamic-interactive-data-visualizations-in-web-browsers-logo-color-tal-revivo.png" alt="D3.js" width="40" height="40"/>
 </a>
 
 ### Cloud & DevOps
 <a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" alt="Azure" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
 </a>
 <a href="https://cloud.google.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" alt="GCP" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
 </a>
 <a href="https://www.linux.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" alt="Linux" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
 </a>
 <a href="https://www.databricks.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" alt="Databricks" height="40" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/databricks.png" alt="Databricks" width="40" height="40"/>
 </a>
 <a href="https://mlflow.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mlflow.svg" alt="MLflow" height="40" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mlflow-an-open-source-platform-for-managing-machine-learning-lifecycle-logo-color-tal-revivo.png" alt="MLflow" width="40" height="40"/>
 </a>
-
 ---
 
 ## 💼 Work Experience
