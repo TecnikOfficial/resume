@@ -11,45 +11,45 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)](https://www.python.org/)
+[![R](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/r.svg)](https://www.r-project.org/)
+[![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg)](https://www.mysql.com/)
+[![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg)](https://www.mongodb.com/)
+[![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg)](https://www.postgresql.org/)
+[![Redis](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg)](https://redis.io/)
 
 ### Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0078D4?style=for-the-badge&logo=xgboost&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Scikit-Learn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikit-learn.svg)](https://scikit-learn.org/)
+[![TensorFlow](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg)](https://www.tensorflow.org/)
+[![PyTorch](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg)](https://pytorch.org/)
+[![Keras](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg)](https://keras.io/)
+[![XGBoost](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xgboost.svg)](https://xgboost.readthedocs.io/)
+[![NLTK](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)](https://www.nltk.org/)
 
 ### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+[![FastAPI](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg)](https://fastapi.tiangolo.com/)
+[![Flask](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg)](https://flask.palletsprojects.com/)
+[![PySpark](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-spark.svg)](https://spark.apache.org/)
+[![Pandas](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg)](https://pandas.pydata.org/)
+[![NumPy](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg)](https://numpy.org/)
+[![Airflow](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-airflow.svg)](https://airflow.apache.org/)
+[![Kafka](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache-kafka.svg)](https://kafka.apache.org/)
 
 ### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+[![Matplotlib](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)](https://matplotlib.org/)
+[![Seaborn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)](https://seaborn.pydata.org/)
+[![Plotly](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/plotly.svg)](https://plotly.com/)
+[![PowerBI](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/power-bi.svg)](https://powerbi.microsoft.com/)
+[![Tableau](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg)](https://www.tableau.com/)
+[![D3.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/d3-dot-js.svg)](https://d3js.org/)
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+[![Azure](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg)](https://azure.microsoft.com/)
+[![GCP](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg)](https://cloud.google.com/)
+[![AWS](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg)](https://aws.amazon.com/)
+[![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg)](https://www.linux.org/)
+[![Databricks](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg)](https://www.databricks.com/)
+[![MLflow](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mlflow.svg)](https://mlflow.org/)
 
 ---
 
