@@ -4,7 +4,7 @@
 
 > Experienced Data Science professional with 6+ years of expertise in developing AI products, solution-driven architectures, and automated pipelines. Skilled in Predictive Modeling, Data Analytics, Statistical Analysis, and delivering scalable, impact-driven solutions.
 
-📍 Bengalore, India | 📧 aquib.farhaan2@gmail.com | 📱 +91 8638510516 | [LinkedIn](https://linkedin.com/in/aquib-farhaan) | [GitHub](https://github.com/Aquib-Farhaan)
+📍 Bengalore, India | 📧 [aquib.farhaan2@gmail.com](mailto:aquib.farhaan2@gmail.com) | 📱 [+918638510516](tel:+918638510516) | [LinkedIn](https://linkedin.com/in/aquibfarhaan/) | [GitHub](https://github.com/aquib97)
 
 ---
 
@@ -26,8 +26,8 @@
 
 ## 💼 Work Experience
 
-### ACCELEDGE | Pune, Maharashtra
-**DATA SCIENTIST** | Apr 2023 - Present
+<details>
+<summary><strong>ACCELEDGE | Pune, Maharashtra</strong> - DATA SCIENTIST (Apr 2023 - Present)</summary>
 
 #### VOICE-BOT PLATFORM
 - Developed a scalable voicebot integrated with a dialer API to manage outbound call campaigns, tracking 10,000+ queued, active, and completed calls daily via MongoDB and temporary caching.
@@ -47,9 +47,10 @@
 #### DATA SCRAPING AND AUTOMATION
 - Developed a Selenium-based web scraping tool to systematically navigate websites and extract updated data files on a daily basis. Automated the workflow using a scheduler to enhance operational efficiency.
 - Designed post-processing pipelines for extracted data and established a daily logging system, seamlessly integrating with an SQL database for real-time mapping and visualization on the client dashboard.
+</details>
 
-### NETWORTH CORP | Bangalore, Karnataka
-**DATA SCIENTIST** | Feb 2021 - Apr 2023
+<details>
+<summary><strong>NETWORTH CORP | Bangalore, Karnataka</strong> - DATA SCIENTIST (Feb 2021 - Apr 2023)</summary>
 
 #### TOTAL EXTRACT LOSS OPTIMIZATION
 - Led root cause analysis to identify and address factors contributing to yield loss in the Lauter Tun process, employing regression techniques and Shap value-driven feature importance.
@@ -67,27 +68,36 @@
 #### OTHER ACHIEVEMENTS
 - Developed and deployed an automation tool for validating MRP controller user details and managing SAP responsibilities, with an optimization module to prioritize cases. Runs daily, auto-handling average of 20 incidents.
 - Built an automation tool to monitor SLA breach incidents, send periodic alerts to assignees, and help save priority cases, contributing to an average cost saving of $10M.
+</details>
 
-### TECH MAHINDRA | Noida
-**PYTHON DEVELOPER** | Feb 2019 - Dec 2020
+<details>
+<summary><strong>TECH MAHINDRA | Noida</strong> - PYTHON DEVELOPER (Feb 2019 - Dec 2020)</summary>
+
 - Developed and maintained Python-based applications for data processing and automation, improving operational efficiency by 30%.
 - Implemented ETL processes using Python libraries (Pandas, NumPy) to transform and load data from various sources into SQL databases.
 - Created RESTful APIs using Flask framework to facilitate seamless data exchange between different systems.
 - Collaborated with cross-functional teams to identify requirements and deliver solutions that met business needs.
 - Automated manual reporting processes, reducing report generation time by 75% and eliminating human error.
+</details>
 
 ---
 
 ## 🚀 Projects
 
-### SENTIMENT ANALYSIS AND MODEL TRAINING
+<details>
+<summary><strong>SENTIMENT ANALYSIS AND MODEL TRAINING</strong></summary>
+
 - Analyzed a Twitter dataset of 1.6M records to discern the sentiment (positive or negative) of tweets.
 - Trained various models, including GloVe+Stacked Bi-LSTM, ANN, and Logistic Regression, to assess their performance in sentiment analysis on the data.
+</details>
 
-### AUTOMATION OF OIL WELL SHUTDOWN PROCESS (FREELANCE)
+<details>
+<summary><strong>AUTOMATION OF OIL WELL SHUTDOWN PROCESS (FREELANCE)</strong></summary>
+
 - Investigated the behavior of neighboring wells in the vicinity of a center well shutdown within a specified radius.
 - Managed data from 60 wells, handling a substantial dataset of approximately 13 GB.
 - Conducted experiments in predictive analysis and visualization techniques, automating the process to enhance data representation.
+</details>
 
 ---
 
@@ -116,9 +126,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquib-Farhaan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aquib97&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquib-Farhaan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquib97&layout=compact&theme=radical)
 
 ---
 
@@ -126,6 +136,6 @@
 
 Feel free to reach out for collaborations or just a chat!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aquib-farhaan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aquib-Farhaan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aquibfarhaan/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aquib97)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquib.farhaan2@gmail.com)
