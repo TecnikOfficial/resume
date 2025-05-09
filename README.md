@@ -4,7 +4,7 @@
 
 > Results-driven Data Science professional with 6+ years of expertise in developing AI products and scalable solutions. Proven track record in delivering predictive models that increased operational efficiency by 30% and reduced costs by $10M+.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/aquibfarhaan/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=white)](https://github.com/aquib97) [![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white)](mailto:aquib.farhaan2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=blue)](https://linkedin.com/in/aquibfarhaan/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=black)](https://github.com/aquib97) [![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=red)](mailto:aquib.farhaan2@gmail.com)
 
 ---
 
