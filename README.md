@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&lines=Welcome+to+My+Profile!;I+love+Python+and+AI!)
+
 # Aquib Farhaan Hussain <a href="#"><img src="https://komarev.com/ghpvc/?username=aquib97&color=blue" alt="Profile Views"></a>
 
 ## 📊 Data Scientist
@@ -11,6 +13,7 @@
 ## 🛠️ Tech Stack
 
 ### Programming & Databases
+<i class="devicon-python-plain"></i>
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/ "Python")
 [![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/ "R")
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/ "MySQL")
