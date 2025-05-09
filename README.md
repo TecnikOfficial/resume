@@ -1,5 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&lines=Welcome+to+My+Profile!;I+love+Python+and+AI!)
-
 # Aquib Farhaan Hussain <a href="#"><img src="https://komarev.com/ghpvc/?username=aquib97&color=blue" alt="Profile Views"></a>
 
 ## 📊 Data Scientist
