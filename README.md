@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&lines=Welcome+to+My+Profile!;I+love+Python+and+AI!)
 # Aquib Farhaan Hussain <a href="#"><img src="https://komarev.com/ghpvc/?username=aquib97&color=blue" alt="Profile Views"></a>
-
 ## 📊 Data Scientist
 
 > Results-driven Data Science professional with 6+ years of expertise in developing AI products and scalable solutions. Proven track record in delivering predictive models that increased operational efficiency by 30% and reduced costs by $10M+.
