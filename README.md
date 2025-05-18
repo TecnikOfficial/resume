@@ -156,7 +156,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aquib97&rank_icon=github&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquib97&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquib97&layout=compact&theme=github_dark)
 
 ---
 
